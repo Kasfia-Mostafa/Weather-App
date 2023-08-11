@@ -71,6 +71,11 @@ body{
    font-size: 4.5rem;
 }
 
+.weather-temp{
+  font-weight: 700;
+  font-size: 3.5rem;
+}
+
 .right-info{
   float: right;
 }
